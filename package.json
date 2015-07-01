@@ -1,0 +1,17 @@
+{
+  "name": "dockerproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copy1_docker.js",
+  "dependencies": {
+    "dockerode": "^2.1.5",
+    "tar-fs": "^1.7.0",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
