@@ -35,8 +35,8 @@ docker.buildImage(tarStream, {
            });
         	var time = Date.now()
         	var auth = {
-                 	     username: 'apoorv21',
-                     	     password: 'apoorv',
+                 	     username: '',
+                     	     password: '',
                      	     auth: '',
                              email: 'apoorv.agrawal02@gmail.com',
                              serveraddress: 'https://index.docker.io/v1'
